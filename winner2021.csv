@@ -1,0 +1,235 @@
+ac_number,constituency,candidate,party,votes,region,reserved
+1,Gummidipundi,GOVINDARAJAN T.J,DMK,126452,Chennai Metro,GEN
+2,Ponneri,DURAI. CHANDRASEKAR,INC,94528,Chennai Metro,SC
+3,Tiruttani,S.Chandran,DMK,120314,Chennai Metro,GEN
+4,Thiruvallur,"RAAJENDRAN, V.G.",DMK,107709,Chennai Metro,GEN
+5,Poonamallee,Krishnaswamy A,DMK,149578,Chennai Metro,SC
+6,Avadi,Nasar S M,DMK,150287,Chennai Metro,GEN
+7,Maduravoyal,GANAPATHY.K,DMK,121298,Chennai Metro,GEN
+8,Ambattur,JOSEPH SAMUEL,DMK,114554,Chennai Metro,GEN
+9,Madavaram,SUDHARSANAM. S,DMK,151485,Chennai Metro,GEN
+10,Thiruvottiyur,K.P.SHANKAR,DMK,88185,Chennai Metro,GEN
+11,Dr. Radhakrishnan Nagar,EBENEZER. J.J. (@)  JOHN EBENEZER.J,DMK,95763,Chennai Metro,GEN
+12,Perambur,SHEKAR. R.D,DMK,105267,Chennai Metro,GEN
+13,Kolathur,M.K. STALIN,DMK,105522,Chennai Metro,GEN
+14,Villivakkam,A . Vetriazhagan,DMK,76127,Chennai Metro,GEN
+15,Thiru-Vi-Ka-Nagar,SIVAKUMAR.P,DMK,81727,Chennai Metro,SC
+16,Egmore,I.PARANTHAMEN,DMK,68832,Chennai Metro,SC
+17,Royapuram,MURTHY.R.IDREAM,DMK,64424,Chennai Metro,GEN
+18,Harbour,SEKARBABU. P.K,DMK,59317,Chennai Metro,GEN
+19,Chepauk-Thiruvallikeni,UDHAYANIDHI STALIN,DMK,93285,Chennai Metro,GEN
+20,Thousand Lights,EZHILAN N,DMK,71867,Chennai Metro,GEN
+21,Anna Nagar,M.K. Mohan,DMK,80054,Chennai Metro,GEN
+22,Virugampakkam,AMV.PRABHAKARA RAJA,DMK,74351,Chennai Metro,GEN
+23,Saidapet,SUBRAMANIAN. MA,DMK,80194,Chennai Metro,GEN
+24,Theayagaraya Nagar,KARUNANITHI J,DMK,56035,Chennai Metro,GEN
+25,Mylapore,VELU.DHA,DMK,68392,Chennai Metro,GEN
+26,Velachery,JMH.AASSAN MAULAANA,INC,68493,Chennai Metro,GEN
+27,Shozhinganallur,S.ARAVINDRAMESH,DMK,171558,Chennai Metro,GEN
+28,Alandur,T.M.Anbarasan,DMK,116785,Chennai Metro,GEN
+29,Sriperumbudur,SELVAPERUNTHAGAI,INC,115353,Chennai Metro,SC
+30,Pallavaram,KARUNANITHI,DMK,126427,Chennai Metro,GEN
+31,Tambaram,Raja.S.R,DMK,116840,Chennai Metro,GEN
+32,Chengalpattu,VARALAKSHMI.M,DMK,130573,Chennai Metro,GEN
+33,Thiruporur,S.S.Balaji,VCK,93954,North,GEN
+34,Cheyyur,Babu M,VCK,82750,North,SC
+35,Maduranthakam,Maragatham. K,AIADMK,86646,North,SC
+36,Uthiramerur,SUNDAR K,DMK,93427,North,GEN
+37,Kancheepuram,C.V.M.P. Ezhailzrasan,DMK,102712,North,GEN
+38,Arakonam,S.RAVI,AIADMK,85399,North,SC
+39,Sholinghur,A.M.MUNIRATHINAM,INC,110228,North,GEN
+40,Katpadi,DURAIMURUGAN,DMK,85140,North,GEN
+41,Ranipet,R.GANDHI,DMK,103291,North,GEN
+42,Arcot,J.L.Eswarappan,DMK,103885,North,GEN
+43,Vellore,Karthikeyan .P,DMK,84299,North,GEN
+44,Anaikattu,A.P.Nandakumar,DMK,95159,North,GEN
+45,Kilvaithinankuppam,M.JAGAN MOORTHY,AIADMK,84579,North,SC
+46,Gudiyatham,Amulu.V,DMK,100412,North,SC
+47,Vaniayambadi,G.SENDHIL KUMAR,AIADMK,88018,North,GEN
+48,Ambur,VILWANATHAN.A.C,DMK,90476,North,GEN
+49,Jolarpet,DEVARAJI.K.,DMK,89490,North,GEN
+50,Tiruppattur,A. NALLATHAMBI,DMK,96522,North,GEN
+51,Uthangarai,T.M.TAMILSELVAM,AIADMK,99675,North,SC
+52,Bargur,MATHIAZHAGAN D,DMK,97256,North,GEN
+53,Krishnagiri,Ashokkumar.K,AIADMK,96050,North,GEN
+54,Veppanahalli,K.P.Munusamy,AIADMK,94104,North,GEN
+55,Hosur,PRAKAASH Y,DMK,118231,North,GEN
+56,Thalli,RAMACHANDRAN.T,CPI,120641,North,GEN
+57,Palacode,ANBALAGAN.K.P.,AIADMK,110070,North,GEN
+58,Pennagaram,MANI. G.K,PMK,106123,North,GEN
+59,Dharmapuri,VENKATESHWARAN.S.P.,PMK,105630,North,GEN
+60,Pappireddippatti,GOVINDASAMY.A,AIADMK,114507,North,GEN
+61,Harur,SAMPATHKUMAR.V,AIADMK,99061,North,SC
+62,Chengam,GIRI.M.P,DMK,108081,North,SC
+63,Tiruvannamalai,E V VELU,DMK,137876,North,GEN
+64,Kilpennathur,K.Pitchandi,DMK,104675,North,GEN
+65,Kalasapakkam,Saravanan.P.S.T,DMK,94134,North,GEN
+66,Polur,Agri KRISHNAMURTHY. S S,AIADMK,97732,North,GEN
+67,Arani,S.RAMACHANDRAN,AIADMK,102961,North,GEN
+68,Cheyyar,JOTHI. O,DMK,102460,North,GEN
+69,Vandavasi,Ambethkumar S,DMK,102064,North,SC
+70,Gingee,MASTHAN K S,DMK,109625,Central,GEN
+71,Mailam,SIVAKUMAR C,PMK,81044,Central,GEN
+72,Tindivanam,ARJUNAN P,AIADMK,87152,Central,SC
+73,Vanur,CHAKRAPANI M,AIADMK,92219,Central,SC
+74,Villupuram,LAKSHMANAN R,DMK,102271,Central,GEN
+75,Vikravandi,PUGAZHENTHI N,DMK,93730,Central,GEN
+76,Tirukkoyilur,K.PONMUDY,DMK,110980,Central,GEN
+77,Ulundurpet,MANIKANNAN A J,DMK,115451,Central,GEN
+78,Rishivandiam,KARTHIKEYAN K,DMK,113912,Central,GEN
+79,Sankarapuram,UDHAYASURIYAN T,DMK,121186,Central,GEN
+80,Kallakurichi,Senthilkumar.M,AIADMK,110643,Central,SC
+81,Gangavalli,"NALLATHAMBI,A.",AIADMK,89568,Central,SC
+82,Attur,"JAYASANKARAN, A.P.",AIADMK,95308,Central,SC
+83,Yercaud,G. Chitra,AIADMK,121561,Central,ST
+84,Omalur,R.MANI,AIADMK,142488,Central,GEN
+85,Mettur,SADHASIVAM.S,PMK,97055,Central,GEN
+86,Edapadi,EDAPPADI PALANISWAMI. K,AIADMK,163154,Central,GEN
+87,Sankari,"SUNDARARAJAN, S.",AIADMK,115472,Central,GEN
+88,Salem (West),ARUL. R,PMK,105483,Central,GEN
+89,Salem (North),R. RAJENDRAN,DMK,93432,Central,GEN
+90,Salem (South),E.BALASUBRAMANIAN,AIADMK,97506,Central,GEN
+91,Veerapandi,"RAJAMUTHU, M.",AIADMK,111682,Central,GEN
+92,Rasipuram,MATHIVENTHAN M,DMK,90727,Central,SC
+93,Sendamangalam,PONNUSAMY K,DMK,90681,Central,ST
+94,Namakkal,RAMALINGAM P,DMK,106494,Central,GEN
+95,Paramathi-Velur,SEKAR S,AIADMK,86034,Central,GEN
+96,Tiruchengode,ESWARAN E R,DMK,81688,Central,GEN
+97,Kumarapalayam,THANGAMANI.P,AIADMK,100800,Central,GEN
+98,Erode (East),"THIRUMAHAN EVERAA,E.",INC,67300,Kongu,GEN
+99,Erode (West),Muthusamy S,DMK,100757,Kongu,GEN
+100,Modakurichi,SARASWATHI.C,BJP,78125,Kongu,GEN
+101,Dharapuram,KAYALVIZHI N,DMK,89986,Kongu,SC
+102,Kangayam,SAMINATHAN.M.P,DMK,94197,Kongu,GEN
+103,Perundurai,"JAYAKUMAR, S.",AIADMK,85125,Kongu,GEN
+104,Bhavani,KARUPPANAN.K.C,AIADMK,100915,Kongu,GEN
+105,Anthiyur,VENKATACHALAM.A.G,DMK,79096,Kongu,GEN
+106,Gobichettipalayam,SENGOTTAIYAN K.A,AIADMK,108608,Kongu,GEN
+107,Bhavanisagar,A.Bannari,AIADMK,99181,Kongu,SC
+108,Udhagamandalam,"GANESH, R.",INC,65530,Kongu,GEN
+109,Gudalur,PON.JAYASEELAN,AIADMK,64496,Kongu,SC
+110,Coonoor,"Ramachandran, K.",DMK,61820,Kongu,GEN
+111,Mettupalayam,SELVARAJ A K,AIADMK,105231,Kongu,GEN
+112,Avanashi,"DHANAPAL, P",AIADMK,117284,Kongu,SC
+113,Tiruppur (North),VIJEYAKUMAR.K.N,AIADMK,113384,Kongu,GEN
+114,Tiruppur (South),SELVARAJ. K.,DMK,75535,Kongu,GEN
+115,Palladam,ANANDAN M S M,AIADMK,126903,Kongu,GEN
+116,Sulur,KANDASAMY V.P.,AIADMK,118968,Kongu,GEN
+117,Kavundampalayam,G.Arunkumar,AIADMK,135669,Kongu,GEN
+118,Coimbatore North,AMMAN K.ARJUNAN,AIADMK,81454,Kongu,GEN
+119,Thondamuthur,S.P. VELUMANI,AIADMK,124225,Kongu,GEN
+120,Coimbatore South,VANATHI SRINIVASAN,BJP,53209,Kongu,GEN
+121,Singanallur,"Jayaram, K.R",AIADMK,81244,Kongu,GEN
+122,Kinathukadavu,Damodaran.S,AIADMK,101537,Kongu,GEN
+123,Pollachi,Pollachi V. Jayaraman,AIADMK,80567,Kongu,GEN
+124,Valparai,AMULKANDASAMI T K,AIADMK,71672,Kongu,SC
+125,Udumalpet,"Radhakrishnan,K.",AIADMK,96893,Kongu,GEN
+126,Madathukulam,C MAHENDRAN,AIADMK,84313,Kongu,GEN
+127,Palani,SENTHIL KUMAR I.P,DMK,108566,South,GEN
+128,Oddanchatram,SAKKARAPANI R,DMK,109970,South,GEN
+129,Athoor,PERIYASAMY I,DMK,165809,South,GEN
+130,Nilakottai,S.Thenmozhi,AIADMK,91461,South,SC
+131,Natham,NATHAM.R.VISWANATHAN,AIADMK,107762,South,GEN
+132,Dindigul,SREENIVASAN.C,AIADMK,90595,South,GEN
+133,Vedasandur,GANDHIRAJAN S,DMK,106481,South,GEN
+134,Aravakurichi,ELANGO. R,DMK,93369,Kongu,GEN
+135,Karur,SENTHILBALAJI V,DMK,101757,Kongu,GEN
+136,Krishnarayapuram,SIVAGAMA SUNDARI.K,DMK,96540,Kongu,SC
+137,Kulithalai,R.Manickam,DMK,100829,Kongu,GEN
+138,Manapparai,ABDUL SAMAD P,DMK,98077,Delta,GEN
+139,Srirangam,Palaniyandi.M,DMK,113904,Delta,GEN
+140,Tiruchirapalli (West),"Nehru, K.N.",DMK,118133,Delta,GEN
+141,Tiruchirapalli (East),"INIGO IRUDAYARAJ,S.",DMK,94302,Delta,GEN
+142,Thiruverambur,ANBIL MAHESH POYYAMOZHI,DMK,105424,Delta,GEN
+143,Lalgudi,A.SOUNDARAPANDIAN,DMK,84914,Delta,GEN
+144,Manachanallur,S. KATHIRAVAN,DMK,116334,Delta,GEN
+145,Musiri,N. Thiyagarajan,DMK,90624,Delta,GEN
+146,Thuraiyur,S.STALINKUMAR,DMK,87786,Delta,SC
+147,Perambalur,"PRABHAHARAN, M.",DMK,122090,Central,SC
+148,Kunnam,"SIVASANKAR, S.S.",DMK,103922,Central,GEN
+149,Ariyalur,CHINNAPPA K,DMK,103975,Central,GEN
+150,Jayankondam,KANNAN KA SO KA,DMK,99529,Central,GEN
+151,Tittakudi,"GANESAN,  C.V.",DMK,83726,Central,SC
+152,Vriddhachalam,Radhakrishnan,INC,77064,Central,GEN
+153,Neyveli,SABA.RAJENDRAN,DMK,75177,Central,GEN
+154,Panruti,VELMURUGAN.T,DMK,93801,Central,GEN
+155,Cuddalore,G.IYAPPAN,DMK,84563,Central,GEN
+156,Kurinjipadi,M.R.K.PANNEERSELVAM,DMK,101456,Central,GEN
+157,Bhuvanagiri,Arunmozhithevan. A,AIADMK,96453,Central,GEN
+158,Chidambaram,K.A. PANDIAN,AIADMK,91961,Central,GEN
+159,Kattumannarkoil,SINTHANAI SELVAN,VCK,86056,Central,SC
+160,Sirkali,PANNEERSELVAM,DMK,94057,Delta,SC
+161,Mayiladuthurai,Rajakumar.S,INC,73642,Delta,GEN
+162,Poompuhar,Nivedha M. Murugan,DMK,96102,Delta,GEN
+163,Nagapattinam,J. Mohamed Shanavas,VCK,66281,Delta,GEN
+164,Kilvelur,NAGAIMAALI V P,CPI(M),67988,Delta,SC
+165,Vedaranyam,O.S.MANIAN,AIADMK,78719,Delta,GEN
+166,Thiruthuraipundi,MARIMUTHU K,CPI,97092,Delta,SC
+167,Mannargudi,RAJAA T R B,DMK,87172,Delta,GEN
+168,Thiruvarur,KALAIVANAN  POONDI  K.,DMK,108906,Delta,GEN
+169,Nannilam,KAMARAJ R,AIADMK,103637,Delta,GEN
+170,Thiruvidamarudur,"CHEZHIAAN,  GOVI.",DMK,95763,Delta,SC
+171,Kumbakonam,"ANBALAGAN, G.",DMK,96057,Delta,GEN
+172,Papanasam,"Dr.JAWAHIRULLAH, M.H.",DMK,86567,Delta,GEN
+173,Thiruvaiyaru,DURAI.CHANDRASEKARAN,DMK,103210,Delta,GEN
+174,Thanjavur,"NEELAMEGAM, T.K.G.",DMK,103772,Delta,GEN
+175,Orathanad,"VAITHILINGAM, R.",AIADMK,90063,Delta,GEN
+176,Pattukkottai,"ANNADURAI, K.",DMK,79065,Delta,GEN
+177,Peravurani,"ASHOKKUMAR, N.",DMK,89130,Delta,GEN
+178,Gandharvakottai,M.Chinnadurai,CPI(M),69710,Delta,SC
+179,Viralimalai,VIJAYA BASKER C,AIADMK,102179,Delta,GEN
+180,Pudukkottai,V . MUTHURAJA,DMK,85802,Delta,GEN
+181,Thirumayam,S.REGUPATHY,DMK,71349,Delta,GEN
+182,Alangudi,SIVA.V.MEYYANATHAN,DMK,87935,Delta,GEN
+183,Arantangi,RAMACHANDRAN T,INC,81835,Delta,GEN
+184,Karaikudi,S.Mangudi,INC,75954,South,GEN
+185,Tiruppattur,KR.PERIYAKARUPPAN,DMK,103682,South,GEN
+186,Sivaganga,PR. Senthilnathan,AIADMK,82153,South,GEN
+187,Manamadurai,Tamilarasi A.,DMK,89364,South,SC
+188,Melur,PERIYAPULLAN @ SELVAM  P.,AIADMK,83344,South,GEN
+189,Madurai East,MOORTHY P,DMK,122729,South,GEN
+190,Sholavandan,VENKATESAN A,DMK,84240,South,SC
+191,Madurai North,THALAPATHI G,DMK,73010,South,GEN
+192,Madurai South,BOOMINATHAN.M,DMK,62812,South,GEN
+193,Madurai Central,PALANIVEL THIAGA RAJAN,DMK,73205,South,GEN
+194,Madurai West,RAJU. K,AIADMK,83883,South,GEN
+195,Thiruparankundram,"RAJANCHELLAPPA, V.V.",AIADMK,103683,South,GEN
+196,Thirumangalam,UDHAYAKUMAR R B,AIADMK,100338,South,GEN
+197,Usilampatti,AYYAPPAN P,AIADMK,71255,South,GEN
+198,Andipatti,A.MAHARAJAN,DMK,93541,South,GEN
+199,Periyakulam,K.S.SARAVANAKUMAAR,DMK,92251,South,SC
+200,Bodinayakanur,O.PANNEERSELVAM,AIADMK,100050,South,GEN
+201,Cumbum,N.Ramakrishnan,DMK,104800,South,GEN
+202,Rajapalayam,THANGAPANDIAN S.,DMK,74158,South,GEN
+203,Srivilliputhur,"MANRAJ, E.M.",AIADMK,70475,South,SC
+204,Sattur,"RAGHURAMAN,  A.R.R.",DMK,74174,South,GEN
+205,Sivakasi,Ashokan.G,INC,78947,South,GEN
+206,Virudhunagar,SEENIVASAN A.R.R,DMK,73297,South,GEN
+207,Aruppukottai,K.K.S.S.R.RAMACHANDRAN,DMK,91040,South,GEN
+208,Tiruchuli,THANGAM THENARASU,DMK,102225,South,GEN
+209,Paramakudi,MURUGESAN S,DMK,84864,South,SC
+210,Tiruvadanai,KARUMANICKAM,INC,79364,South,GEN
+211,Ramanathapuram,KATHARBATCHA MUTHURAMALINGAM,DMK,111082,South,GEN
+212,Mudukulathur,R.S.RAJAKANNAPPAN,DMK,101901,South,GEN
+213,Vilathikulam,MARKANDAYAN V,DMK,90348,South,GEN
+214,Thoothukkudi,P.Geetha Jeevan,DMK,92314,South,GEN
+215,Tiruchendur,Anitha R. Radhakrishnan,DMK,88274,South,GEN
+216,Srivaikuntam,Amirtharaj .S,INC,76843,South,GEN
+217,Ottapidaram,SHUNMUGAIAH C,DMK,73110,South,SC
+218,Kovilpatti,KADAMBUR RAJU,AIADMK,68556,South,GEN
+219,Sankarankovil,RAJA E,DMK,71347,South,SC
+220,Vasudevanallur,"SADHAN THIRUMALAIKUMAR, DOCTOR.T",DMK,68730,South,SC
+221,Kadayanallur,C.KRISHNAMURALI,AIADMK,88474,South,GEN
+222,Tenkasi,PALANI NADAR.S,INC,89315,South,GEN
+223,Alangulam,PAUL MANOJ PANDIAN,AIADMK,74153,South,GEN
+224,Tirunelveli,Nainar Nagenthran,BJP,92282,South,GEN
+225,Ambasamudram,E.SUBAYA,AIADMK,85211,South,GEN
+226,Palayamcottai,ABDUL WAHAB .M,DMK,89117,South,GEN
+227,Nanguneri,RUBY R MANOHARAN,INC,75902,South,GEN
+228,Radhapuram,M.Appavu,DMK,82331,South,GEN
+229,Kanniyakumari,THALAVAI SUNDARAM N.,AIADMK,109745,South,GEN
+230,Nagercoil,Gandhi M.R.,BJP,88804,South,GEN
+231,Colachel,Prince J.G.,INC,90681,South,GEN
+232,Padmanabhapuram,"Mano Thangaraj, T.",DMK,87744,South,GEN
+233,Vilavancode,VIJAYADHARANI S,INC,87473,South,GEN
+234,Killiyoor,RAJESH KUMAR  S,INC,101541,South,GEN
